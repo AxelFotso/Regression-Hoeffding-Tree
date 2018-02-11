@@ -19,4 +19,4 @@ http://scikit-learn.org/stable/developers/contributing.html#documentation
  The teacher provided us with some material for helping us in developping the project:   
 1. [Paper describing the implementation](/elena_ikonomovska.pdf)
 2. [An example dataset, based on the IMDB data](https://www.dropbox.com/s/kol9wtbzql0laga/imdb.csv.gz?dl=0/)
-3. [Original Moa Java Source code](JavaRegressionHoeffdingTree)
+3. [Original Moa Java Source code](/JavaRegressionHoeffdingTree.java)
