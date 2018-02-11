@@ -23,3 +23,4 @@ http://scikit-learn.org/stable/developers/contributing.html#documentation
 
 # My approach 
 My approach to solve this problem was firstly to read and understand the [algorithm description](/elena_ikonomovska.pdf) and then to translate [the original java implementation](/JavaRegressionHoeffdingTree.java) into a [Python](/JavaRegressionHoeffdingTree.py) source code.
+# TO DO : Implementation of the evaluation framework ...
