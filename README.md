@@ -17,6 +17,6 @@ http://scikit-learn.org/stable/developers/contributing.html#documentation
  *Geoff Hulten, Laurie Spencer, Pedro Domingos: Mining time-changing data streams. In: ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 97-106, 2001.* 
  # Given material   
  The teacher provided us with some material for helping us in developping the project:   
-1. [Paper describing the implementation](/GivenMaterial/elena_ikonomovska.pdf)
+1. [Paper describing the implementation](/elena_ikonomovska.pdf)
 2. [An example dataset, based on the IMDB data](https://www.dropbox.com/s/kol9wtbzql0laga/imdb.csv.gz?dl=0/)
-3. [Moa Source code](https://github.com/Waikato/moa/)
+3. [Original Moa Java Source code](JavaRegressionHoeffdingTree)
